@@ -1,0 +1,13 @@
+INSERT INTO tbl_categoria (Id, nome_Categoria) VALUES (1, "calzones")
+INSERT INTO tbl_categoria (Id, nome_Categoria) VALUES (2, "esfihas")
+INSERT INTO tbl_categoria (Id, nome_Categoria) VALUES (3, "pizzas")
+INSERT INTO tbl_categoria (Id, nome_Categoria) VALUES (4, "salgados")
+INSERT INTO tbl_categoria (Id, nome_Categoria) VALUES (5, "comidas")
+INSERT INTO tbl_categoria (Id, nome_Categoria) VALUES (6, "bebidas")
+
+INSERT INTO tbl_valor (Id, valor_Valor) VALUES (1, "valorUnd")
+INSERT INTO tbl_valor (Id, valor_Valor) VALUES (2, "valorCombo")
+INSERT INTO tbl_valor (Id, valor_Valor) VALUES (3, "broto")
+INSERT INTO tbl_valor (Id, valor_Valor) VALUES (4, "medio")
+INSERT INTO tbl_valor (Id, valor_Valor) VALUES (5, "grande")
+INSERT INTO tbl_valor (Id, valor_Valor) VALUES (6, "familia")
